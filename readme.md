@@ -1,0 +1,1 @@
+Aqui estará algumas informações sobre o estudo de caso para o projeto para uma ferramenta de informações de investimentos na bolsa de valores.
